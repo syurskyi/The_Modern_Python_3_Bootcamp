@@ -2,6 +2,7 @@
 
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+.idea/vcs.xml
 rebrand-subs/
 captions/
 page_*.jpeg
